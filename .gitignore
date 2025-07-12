@@ -1,0 +1,13 @@
+# Ignore system folders
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
+.venv/
+
+# Ignore model file (optional)
+*.h5
+
+# Ignore other large files (optional)
+*.zip
+*.tar.gz
